@@ -50,7 +50,7 @@ Examples:
 - Generating consistent obfuscated codes for demos, labs, or training without leaking real secrets.
 
 ## Link
-   `https://<your-username>.github.io/<your-repo>/`
+  (https://almadadali.github.io/ZeroTrace/)
 
-## License
-Choose a license appropriate for your use (MIT, Apache-2.0, etc.).
+
+
