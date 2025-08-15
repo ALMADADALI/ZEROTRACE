@@ -50,7 +50,8 @@ Examples:
 - Generating consistent obfuscated codes for demos, labs, or training without leaking real secrets.
 
 ## Link
-  (https://almadadali.github.io/ZeroTrace/)
+  [ZeroTrace](https://almadadali.github.io/ZeroTrace/)
+
 
 
 
